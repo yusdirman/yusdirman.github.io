@@ -3,6 +3,7 @@ layout: post
 title:  "rails generate scaffold with existing table"
 date:   2017-10-29 15:30:00 +0800
 categories: Ruby on Rails, scaffolding
+comments: true
 ---
 
 # Generate scaffold with existing table
