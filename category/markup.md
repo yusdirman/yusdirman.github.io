@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Tags
 ---
 
-Another sample category page.
+Tagging
