@@ -5,10 +5,7 @@ date:   2018-02-04 09:05:00 +0800
 categories: Git
 ---
 
-# Checkout to other branch before staging to bring over all edited lines to the destination branch
-
-
-Assalamualaikum...
+### Assalamualaikum...
 
 Often in my environment situation especially during debugging process, I start editing the codes at any branch I was on to investigate or to test proof my solution for repair, before I create a branch for the fix.
 
@@ -53,12 +50,16 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
-
 And now, the changes is in the new created branch from MR the issue in gitlab.
+
+
+
 
 ### Cautions
 - please use a new branch or a clean destination branch. Otherwise it would return error and you cannot checkout to the branch.
 - Must be in UnStage state. Edit the code and save. Don't add tu staging state and of course don't commit for this to work.
+
+
 
 
 ## What if I've already commited and then decided that all the modified code should be in a new issue/branch?
