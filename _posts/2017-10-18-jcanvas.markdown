@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "jcanvas-rails gem"
+date:   2017-10-18 20:05:30 +0800
+categories: rubygems
+---
+
+# Rubygems: jcanvas-rails
