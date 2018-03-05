@@ -7,7 +7,7 @@ categories: Ruby on Rails
 
 ### Assalamualaikum.
 
-I often have a model that is from another system and resides in another server. Before I learn that I can use scaffold to generate its controller and view based on the attributes in its table, I helplessly created each of the needed files one by one manually.
+I often have a model that is from another system and resides in another server. Before I learn that dbhgI can use scaffold to generate its controller and view based on the attributes in its table, I helplessly created each of the needed files one by one manually.
 
 Actually with --skip-migration we can use rails generate scaffold for any model that already exist in order to automake the controller and the views for that model.
 
@@ -45,8 +45,8 @@ rails generate scaffold Department name full_name service_code:integer --skip-mi
 
 > DO NOT OVERRIDE THE MODEL FILE
 
-There you have it. After the scaffold, you will have a working controller and most important, the form for your model is created and ready to use. :smile:
+There you have it. After the scaffold, you will have a working controller and most important, the form for your model is created and ready to use. :)
 
 Thanks. Assalamualaikum
 
-> yusdirman is very lazy to create html form. :laughing:
+> yusdirman is very lazy to create html form. :D
