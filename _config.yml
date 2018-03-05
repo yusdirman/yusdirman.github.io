@@ -25,7 +25,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jemoji
 
 # Custom vars
 version:            3.4.1
